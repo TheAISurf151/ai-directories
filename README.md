@@ -223,6 +223,9 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Yet Another AI Tool Directory](https://yaatd.com/) - Yet Another AI Tool Directory
 
 # Add Yours
+## Explore Top AI Tools
+
+Discover a comprehensive list of AI tools at the [Best AI Tool Directory](https://theaisurf.com/), featuring categories like Art, Audio, Business, and more.
 
 Feel Free to add your AI Directory To this list
 
