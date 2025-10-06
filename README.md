@@ -223,6 +223,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Yet Another AI Tool Directory](https://yaatd.com/) - Yet Another AI Tool Directory
 
 # Add Yours
+Check out the [Best AI Tool Directory](https://theaisurf.com/) for the latest AI tools and resources.
 
 Feel Free to add your AI Directory To this list
 
