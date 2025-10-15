@@ -192,7 +192,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [Submit AI Tools](https://submitaitools.org) - Unleash AI’s Potential Discover Tools, Drive Innovation
 
 ## T
-
+- [Theaisurf](https://theaisurf.com/) - 20,000+ AI tools and growing — drive more leads and boost SEO.
 - [There's An AI](https://theresanai.com) - No 1 AI Aggregator
 - [THANK JOHN](https://www.thankjohn.com/) - Free tool submissions + featured
 - [.Tech AI TOOLS ](https://allaitools.tech) - No 1 AI Tools and Agents directory, spam-free, AI-Powered recommendations, Worthy Newsletter
@@ -211,7 +211,6 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [TrustedBy](https://www.trustedby.ai/) - AI Tools Trusted by Top Business Leaders, Operators & Professionals.
 - [Toolkitly](https://www.toolkitly.com/) - Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
 
-## V
 
 - [Victrays](https://www.Victrays.com/) - Find Ai tools | Ai Prompts | Plugins
 
